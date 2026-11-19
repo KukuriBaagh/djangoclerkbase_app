@@ -1,0 +1,1 @@
+# django_minierp_clerk_base_app
